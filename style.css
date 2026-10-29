@@ -58,3 +58,7 @@ body.dark input, body.dark textarea, body.dark select { background: #374151; col
 @media (max-width: 700px) {
   .layout { grid-template-columns: 1fr; }
 }
+
+.red{
+  color: rgb(225, 65, 65);
+}
